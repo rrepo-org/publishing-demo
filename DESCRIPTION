@@ -1,6 +1,6 @@
 Package: hello.world
 Title: Hello World
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person(given = "Adam Smielewski", email = "adam.smielewski@blyedev.com", role = c("aut", "cre"))
 Author: Adam Smielewski [aut, cre]
 Maintainer: Adam Smielewski <adam.smielewski@blyedev.com>
@@ -15,3 +15,4 @@ Suggests:
 Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.0
